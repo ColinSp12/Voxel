@@ -6,8 +6,7 @@ Dynamic Planet Generator is a Unity-based project that leverages advanced voxel 
 # Features
 
 Real-time Voxel Terrain Generation: Create and manipulate voxel-based terrains in real-time, offering endless possibilities for landscape customization.
-Dynamic Planet Creation: Each planet generated is unique, with its own set of characteristics like size, color, terrain type, and atmosphere.
-Customizable Parameters: Easily adjust parameters like terrain roughness, water levels, and atmospheric conditions to create diverse planetary environments.
+Dynamic Planet Creation: Each planet generated is unique, with its own set of characteristics like size, color, terrain type.
 Optimized Performance: Built with performance in mind, ensuring smooth generation and rendering of complex terrains on various devices.
 
 # Getting Started 
@@ -23,7 +22,6 @@ Unity will import all necessary files and assets.
 
 ## Overview
 <img src="Images/voxelPlanetDiagram.png" width="250">
-<img src="Images/planetSummary.png" width="600">
 
 ## Instructions 
 Unity Project: 
