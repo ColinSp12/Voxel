@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 # Installing
 Installing
-- Clone the repo: git clone https://github.com/ColinSp12/voxel-planets-master/.
+- Clone the repo: git clone https://github.com/ColinSp12/Voxel/.
 - Open Unity and select 'Open Project.'.
 - Navigate to the cloned repository folder and open it.
 - Unity will import all necessary files and assets.
