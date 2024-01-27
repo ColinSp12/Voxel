@@ -22,6 +22,7 @@ Unity will import all necessary files and assets.
 
 ## Overview
 <img src="Images/voxelPlanetDiagram.png" width="250">
+<img src="Images/final_LODoctree.png">
 
 ## Instructions 
 Unity Project: 
